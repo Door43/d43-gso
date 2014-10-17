@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gso:home|Door43 (gso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gso|d43-gso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gso/archive/master.zip|d43-gso.zip]]
+
+**Recent Changes**
+{{changes>ns = gso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gso|Ethnologue data]]
+
